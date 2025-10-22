@@ -115,7 +115,7 @@ a {
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  grid-gap: 2rem;
+  grid-gap: 4rem;
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
@@ -245,4 +245,5 @@ footer {
   flex-direction: column;
   
 }
+
 }
